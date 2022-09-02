@@ -1,0 +1,1 @@
+fetch('https://realty-mole-property-api.p.rapidapi.com/properties')
